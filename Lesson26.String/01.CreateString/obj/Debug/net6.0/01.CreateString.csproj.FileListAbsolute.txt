@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\bin\Debug\net6.0\01.CreateString.exe
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\bin\Debug\net6.0\01.CreateString.deps.json
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\bin\Debug\net6.0\01.CreateString.runtimeconfig.json
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\bin\Debug\net6.0\01.CreateString.dll
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\bin\Debug\net6.0\01.CreateString.pdb
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.dll
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\refint\01.CreateString.dll
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.pdb
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\01.CreateString.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson26.String\Lesson26.String\01.CreateString\obj\Debug\net6.0\ref\01.CreateString.dll
