@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\bin\Debug\net7.0\12.StringBuilderPerformanceTest.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\bin\Debug\net7.0\12.StringBuilderPerformanceTest.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\bin\Debug\net7.0\12.StringBuilderPerformanceTest.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\bin\Debug\net7.0\12.StringBuilderPerformanceTest.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\bin\Debug\net7.0\12.StringBuilderPerformanceTest.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\refint\12.StringBuilderPerformanceTest.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\12.StringBuilderPerformanceTest.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\12.StringBuilderPerformanceTest\obj\Debug\net7.0\ref\12.StringBuilderPerformanceTest.dll

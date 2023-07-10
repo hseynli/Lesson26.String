@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\bin\Debug\net7.0\06.RegionInfo.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\bin\Debug\net7.0\06.RegionInfo.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\bin\Debug\net7.0\06.RegionInfo.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\bin\Debug\net7.0\06.RegionInfo.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\bin\Debug\net7.0\06.RegionInfo.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\refint\06.RegionInfo.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\06.RegionInfo.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\06.RegionInfo\obj\Debug\net7.0\ref\06.RegionInfo.dll

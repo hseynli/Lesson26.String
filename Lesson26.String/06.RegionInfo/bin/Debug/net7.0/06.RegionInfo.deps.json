@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "06.RegionInfo/1.0.0": {
+        "runtime": {
+          "06.RegionInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06.RegionInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

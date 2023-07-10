@@ -20,7 +20,7 @@ Console.WriteLine("Object.ReferenceEqual(string1, string2): {0}",
 Console.WriteLine("\nEnter some string:");
 string stringNew = String.Intern(Console.ReadLine());
 //string stringNew = Console.ReadLine();
-// Сравнение.
+// Müqayisə.
 Console.WriteLine("Object.ReferenceEqual(string1, stringNew): {0}",
     ReferenceEquals(string1, stringNew));
 

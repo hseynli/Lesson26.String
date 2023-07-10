@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\bin\Debug\net7.0\04.IFormattable.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\bin\Debug\net7.0\04.IFormattable.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\bin\Debug\net7.0\04.IFormattable.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\bin\Debug\net7.0\04.IFormattable.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\bin\Debug\net7.0\04.IFormattable.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\refint\04.IFormattable.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\04.IFormattable.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\04.IFormattable\obj\Debug\net7.0\ref\04.IFormattable.dll

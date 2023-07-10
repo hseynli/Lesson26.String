@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\bin\Debug\net7.0\08.Encoding.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\bin\Debug\net7.0\08.Encoding.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\bin\Debug\net7.0\08.Encoding.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\bin\Debug\net7.0\08.Encoding.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\bin\Debug\net7.0\08.Encoding.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\refint\08.Encoding.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\08.Encoding.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\08.Encoding\obj\Debug\net7.0\ref\08.Encoding.dll

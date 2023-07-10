@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_07_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="OzekiSDK">
+      <HintPath>..\..\..\..\..\Ozeki 199\OzekiSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="sysglobl">
+      <HintPath>C:\Windows\WinSxS\msil_sysglobl_b03f5f7f11d50a3a_10.0.19041.1_none_95c882191b279871\sysglobl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8.1\System.Windows.Forms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\bin\Debug\net7.0\05.CultureInfo.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\bin\Debug\net7.0\05.CultureInfo.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\bin\Debug\net7.0\05.CultureInfo.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\bin\Debug\net7.0\05.CultureInfo.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\bin\Debug\net7.0\05.CultureInfo.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\refint\05.CultureInfo.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\05.CultureInfo.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\05.CultureInfo\obj\Debug\net7.0\ref\05.CultureInfo.dll

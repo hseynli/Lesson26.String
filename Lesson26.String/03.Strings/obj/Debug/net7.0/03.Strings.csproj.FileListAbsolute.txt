@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\bin\Debug\net7.0\03.Strings.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\bin\Debug\net7.0\03.Strings.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\bin\Debug\net7.0\03.Strings.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\bin\Debug\net7.0\03.Strings.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\bin\Debug\net7.0\03.Strings.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\refint\03.Strings.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\03.Strings.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\03.Strings\obj\Debug\net7.0\ref\03.Strings.dll
