@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\bin\Debug\net7.0\16.RegularExpressions.exe
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\bin\Debug\net7.0\16.RegularExpressions.deps.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\bin\Debug\net7.0\16.RegularExpressions.runtimeconfig.json
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\bin\Debug\net7.0\16.RegularExpressions.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\bin\Debug\net7.0\16.RegularExpressions.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\refint\16.RegularExpressions.dll
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.pdb
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\16.RegularExpressions.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson26.String\Lesson26.String\16.RegularExpressions\obj\Debug\net7.0\ref\16.RegularExpressions.dll
